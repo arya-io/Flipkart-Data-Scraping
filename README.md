@@ -20,7 +20,7 @@ To run this project, you'll need to have Python installed on your machine. Follo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Flipkart_Scraping.git
+   git clone https://github.com/arya-io/Flipkart_Scraping.git
    ```
 
 2. Navigate to the project directory:
